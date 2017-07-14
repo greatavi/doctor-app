@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "id":1,
+      "name": "Alison",
+      "speciality": "Cardiology",
+      "area": "Fremont",
+      "rating": 3,
+      "address":"40945 Cascado Pl,Fremont, CA 94539",
+      "phone": "650-324-7832"
+    },
+    {
+      "id":2,
+      "name": "Jennifer",
+      "speciality": "Pediatrician",
+      "area": "Union City",
+      "rating": 3.1,
+      "address": "32924 Regents Blvd,Union City, CA 94587",
+      "phone": "510-782-7242"
+    },
+    {
+      "id":3,
+      "name": "Cheng",
+      "speciality": "Obstetrician",
+      "area": "San Francisco",
+      "rating": 4.0,
+      "address": "2261 Market St, San Francisco, CA 94114",
+      "phone": "401-722-4245"
+    },
+    {
+      "id":4,
+      "name": "Victor",
+      "speciality": "Cardiology",
+      "area": "San Francisco",
+      "rating": 3.8,
+      "address": "1450 Sutter St, San Francisco, CA 94109",
+      "phone": "405-422-4785"
+    },
+    {
+      "id":5,
+      "name": "Rajiv",
+      "speciality": "Cardiology",
+      "area": "San Francisco",
+      "rating": 2.2,
+      "address": "1452 Sutter St, San Francisco, CA 94129",
+      "phone": "406-232-4589"
+    },
+    {
+      "id":6,
+      "name": "Ramesh",
+      "speciality": "Neurosurgeon",
+      "area": "Palo Alto",
+      "rating": 3.3,
+      "address": "32764 College town PL,Palo Alto, CA 92585",
+      "phone": "486-262-4568"
+    },
+    {
+      "id":7,
+      "name": "Bob",
+      "speciality": "Neurosurgeon",
+      "area": "Palo Alto",
+      "rating": 3.7,
+      "address": "32924 Regents Blvd,Palo Alto, CA 92587",
+      "phone": "487-252-4523"
+    },
+    {
+      "id":8,
+      "name": "Lawson",
+      "speciality": "Cardiology",
+      "area": "San Francisco",
+      "rating": 4.2,
+      "address": "1450 Sutter St, San Francisco, CA 94129",
+      "phone": "406-212-4581"
+    },
+    
+  ]
+}

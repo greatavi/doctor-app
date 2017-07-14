@@ -1,0 +1,44 @@
+#doctors-table{
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+}
+#doctors-table th, #doctors-table td{
+    text-align:left;
+    padding:12px;
+}
+#doctors-table tr{
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd;
+}
+#doctors-table tr.header, #doctors tr:hover{
+    background-color: #f1f1f1;
+}
+#doctors-table tr:hover{
+    background-color: #f1f1f1;
+}
+
+#area-dropdown{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#speciality-dropdown {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+
+doctor-details.td{
+    background-color:beige;
+}
+.doctor-details .detail-content{
+    height: 200px;
+    background-color: beige;
+}
